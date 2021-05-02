@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Find Age</string>
+    <string name="last_name">Last name:</string>
+    <string name="first_name">First name:</string>
+    <string name="enter_first_name">Enter First name</string>
+    <string name="enter_last_name">Enter Last name</string>
+    <string name="select_dob">Select DOB</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="age">Age:</string>
+</resources>
