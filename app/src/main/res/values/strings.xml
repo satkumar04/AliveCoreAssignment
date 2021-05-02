@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Find Age</string>
+    <string name="app_name">Age finder</string>
     <string name="last_name">Last name:</string>
     <string name="first_name">First name:</string>
     <string name="enter_first_name">Enter First name</string>

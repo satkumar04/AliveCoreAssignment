@@ -11,8 +11,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:textStyle="bold"
-        android:textSize="16sp"
+        android:textSize="18sp"
         />
     <TextView
         android:id="@+id/text_view_lastName"
@@ -21,8 +20,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_view_firstName"
-        android:textStyle="bold"
-        android:textSize="16sp"
+        android:textSize="18sp"
         android:layout_marginTop="20dp"
        />
     <TextView
@@ -32,8 +30,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_view_lastName"
-        android:textStyle="bold"
-        android:textSize="16sp"
+        android:textSize="18sp"
         android:layout_marginTop="20dp"
        />
     <Button

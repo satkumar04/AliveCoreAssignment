@@ -32,17 +32,5 @@ class MainActivity : AppCompatActivity() {
                 .replace(mBinding.fragmentContainer.id, fragment, tag).commit()
 
     }
-
-   /* override fun onBackPressed() {
-        AlertDialog.Builder(this)
-                .setMessage("Close?")
-                .setPositiveButton(android.R.string.ok) { dialog, whichButton ->
-                    super.onBackPressed()
-                }
-                .setNegativeButton(android.R.string.cancel) { dialog, whichButton ->
-
-                }
-                .show()
-    }*/
 }
 
